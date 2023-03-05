@@ -1,0 +1,30 @@
+ {
+    "name": "social-network-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "watch": "nodemon"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.13"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.3"
+    },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorryz23/SocialNetworkAPI.git"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/sorryz23/SocialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/sorryz23/SocialNetworkAPI"
+}
